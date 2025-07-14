@@ -1,0 +1,17 @@
+<project>
+<modelVersion>4.0.0</modelVersion>
+<groupId>com.example</groupId>
+<artifactID>web-app</artifatId>
+<version>1.0></version>
+<packaging>war</packaging>
+
+<build>
+<plugins>
+<plugin>
+<groupId>org.apache.maven.plugin</groupId>
+<artifactID>maven-war-plugin</artifactId>
+<version>3.3.2</version>
+</plugin>
+</plugins>
+</build>
+</project>
