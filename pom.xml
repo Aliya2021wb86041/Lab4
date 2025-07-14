@@ -13,6 +13,7 @@
 <version>3.3.2</version>
 <configuration>
 <failOnMissingWebXml>false</failOnMissingWebXml>
+</configuration>
 </plugin>
 </plugins>
 </build>
