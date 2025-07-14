@@ -5,6 +5,16 @@
 <version>1.0></version>
 <packaging>war</packaging>
 
+<pluginRepositories>
+<pluginRepository>
+<id>central</id>
+<url>https://repo.maven.apache.org/maven2</url>
+<releases>
+<updtePolicy>always</updatePolicy>
+</releases>
+</pluginRepository>
+</pluginRepositories>
+
 <build>
 <plugins>
 <plugin>
