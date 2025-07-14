@@ -2,18 +2,8 @@
 <modelVersion>4.0.0</modelVersion>
 <groupId>com.example</groupId>
 <artifactId>web-app</artifactId>
-<version>1.0></version>
+<version>1.0</version>
 <packaging>war</packaging>
-
-<pluginRepositories>
-<pluginRepository>
-<id>central</id>
-<url>https://repo.maven.apache.org/maven2</url>
-<releases>
-<updatePolicy>always</updatePolicy>
-</releases>
-</pluginRepository>
-</pluginRepositories>
 
 <build>
 <plugins>
